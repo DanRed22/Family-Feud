@@ -1,0 +1,18 @@
+{
+    "[1] Describe cybersecurity in words": [["Secure","4"],["Defend", "3"], ["Detect", "2"], ["Educate", "1"]],
+    "[2] Some known threats and risks in Cybersecurity": [["Social Engineering", "2"],["Email Phishing", "2"], ["Adware", "2"], ["Virus", "2"], ["Worms", "1"], ["Ransomware", "1"]],
+    "[3] Ways to create strong passwords:": [["Use a mix of CAPTIAL letters", "3"],["Use Symbols", "3"], ["Avoid using easily guessable information", "2"], ["Use Numbers", "1"], ["Words found in the dictionary", "1"]],
+    "[4] Popular web browsers with security features": [["Google Chrome", "2"], ["Safari", "2"], ["Mozila Firefox", "2"], ["Microsoft Edge", "2"], ["Brave", "2"]],
+    "[5] Common signs of a malware infection": [["Slow computer performance", "3"], ["Unexpected Popups", "3"], ["Unusual system behavior", "2"], ["Abnormal Changes in files/settings", "2"]],
+    "[6] Types of authentication methods": [["Passwords", "3"], ["Biometrics", "3"], ["PINs", "2"], ["Smart Cards/Tokens", "2"]],
+    "[7] Components of a phishing email": [["Urgency or Fear-Inducing Language", "3"], ["Unexpected Links/Attachments", "2"],["Requests for Personal Information", "2"],["The use of fake Logos ", "1"],["Generic Greetings", "1"], ["Poor Grammar", "1"]],
+    "[8] Examples of Cybercrimes": [["Cyberbullying", "3"], ["Fraud/Scams/Theft", "3"], ["Hacking", "3"],["Denial of Service (Dos)", "1"]],
+    "[9] Name a common password that people should avoid using. ": [["123456", "2"], ["password", "2"], ["qwerty", "2"], ["iloveyou", "2"], ["admin", "2"]],
+    "[10] Name a precautionary measure people can take to protect their online accounts in case of a data breach.": [["Enable Two-Factor Authentication (2FA)", "3"], ["Regularly Change Passwords", "3"], ["Use Strong Passwords", "2"], ["Monitor Account Activity", "2"]],
+    "[11] Name a potential consequence of a healthcare data breach.": [["Medical Identity Theft", "3"], ["Legal Consequences","3"], ["Financial Loss", "3"], ["Reduced Reputation", "1"]],
+    "[12] What's a common mistake healthcare workers should avoid when handling sensitive patient information online?": [["Lack of Training", "4"],["Weak Password", "2"], ["Failure to follow protocols", "2"], ["Using Unsecured Devices / Networks", "2"]],
+    "[13] What's the most common reason for a data breach in companies?": [["Phishing Attacks", "3"],["Outdated Security and Systems", "3"],["Human Error", "3"], ["Weak Passwords", "1"]],
+    "[14] How can you protect your personal information when using public Wi-Fi networks?": [["Don't enter sensitive info","3"],["VPN", "3"],["Use HTTPS", "2"],["Monitor Network Activity","2"]],
+    "[15] Name Threat Actors": [["Hacktivists", "2"], ["Cyberiminals", "2"], ["State-Sponsored Actors", "2"], ["Insiders", "2"], ["Terrorist Organizations", "1"], ["Script Kiddies/Hobbyist", "1"]]
+
+}
